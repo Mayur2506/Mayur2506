@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2> Hey there! I'm Mayur Kongutte. <img src="Hi.gif" width="25"></h2>
 
 <!--
 **Mayur2506/Mayur2506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My GitHub Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mayur2506&show_icons=true&theme=tokyonight"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur2506&layout=compact"/>|
+|---|---|
+
+
