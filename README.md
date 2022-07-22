@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there! I'm Mayur Kongutte. <img src="https://github.com/Mayur2506/Mayur2506/blob/main/Hi.gif" width="25"></h2>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Undergrad;Web+Developer;Open%20Source%20contributor&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Undergrad;Competitive+Programmer;Web+Developer;Open%20Source%20contributor&center=true&width=500&height=50"></a>
 </p>
 
 <!--
