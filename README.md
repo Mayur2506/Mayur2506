@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Mayur2506&show_icons=true&theme=tokyonight"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayur2506&layout=compact"/>|
 |---|---|
 
-### 🔗 Connect with me:
+### Connect with me:
 <!-- style=flat-square& -->
 [![Gmail Badge](https://img.shields.io/badge/-Mayur-D14836?logo=Gmail&logoColor=white&link=mailto:mayur.kongutte2002@gmail.com)](mailto:mayur.kongutte2002@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Mayur%20Kongutte-blue?logo=Linkedin&logoColor=white&link=)](https://in.linkedin.com/in/mayur-kongutte-6850511ba)
